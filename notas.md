@@ -1,0 +1,1 @@
+git init --inicia el rastreo de git
